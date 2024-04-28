@@ -1,1 +1,16 @@
 # 8-2-Portfolio-Submission
+
+# 1. Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+A: In this project, I was initially provided with basic foundational code, which included fundamental setup and structure for developing a mobile app. This existing code covered basic UI components and connectivity elements. I expanded upon this by writing additional code for advanced features such as real-time data synchronization, integration of third-party services, and enhanced security protocols. Also, I developed a custom algorithm to optimize inventory tracking and notification systems tailored to the user-specific needs we identified during the user research phase.
+
+# 2. Connect your learning from throughout this course to the larger field of computer science:
+A: The learning from this course has deepened my understanding of how computer science integrates into various aspects of technology development and problem-solving. Computer science principles are foundational to developing efficient algorithms, managing data effectively, and ensuring that applications are scalable and secure. The course highlighted the importance of algorithmic thinking, data structure optimization, and the impact of computing on societal and ethical issues, which are important in the broader field of computer science.
+
+# 3. What do computer scientists do and why does it matter?
+A: Computer scientists design, implement, and manage software systems; they solve problems using computational methodologies and tools. This role is important because it contributes to advancements in technology that facilitate daily activities, enhance business operations, and solve complex scientific questions. Computer scientists help in automating tasks, analyzing large datasets, and developing technologies that can learn and make decisions, thereby driving innovation and efficiency across multiple domains.
+
+# 4. How do I approach a problem as a computer scientist?
+A: As a computer scientist, I approach problems by systematically breaking them down into smaller, manageable parts. I analyze each component to understand the underlying mechanisms and interdependencies. This involves a combination of theoretical knowledge and practical skills to devise algorithms or systems that address specific needs. I employ iterative development and testing to refine solutions, ensuring they are robust and efficient. Collaboration with peers for feedback and insights is also an important part of my problem-solving strategy.
+
+# 5. What are my ethical responsibilities to the end user and the organization?
+A: My ethical responsibilities to the end user and the organization include ensuring that the software systems are secure, reliable, and perform as intended without compromising user privacy or data integrity. I am responsible for maintaining transparency about the functionalities of the applications and any data they collect. To the organization, I owe the duty of creating scalable and maintainable systems while adhering to legal and ethical standards. This includes advocating for best practices in technology use and being vigilant about potential misuses of the technologies we develop.
